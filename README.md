@@ -2,12 +2,12 @@
  <p>Source Code : Lab / main.cpp<br>
  	Language: C++<br>
 	Library : OpenGL<br>
-	</p>
+	</p><br>
 ## Planning - Draw a lines 
 
 ![Draw Lines](Create_Lines_on_OpenGL.PNG)
 ## Actual Graphics Window - For Lines
-![Draw Lines](Draw_Lines_on_DrawopenGL.PNG)
+![Draw Lines](Draw_ Lines_on_openGL.PNG)
 ## Design - Make a Home 
 ![Draw Lines](Make_A_home_plan_Design.PNG)
 ## Actual Output - For Home (Triangle + Quads=Home)
