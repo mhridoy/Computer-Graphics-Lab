@@ -6,10 +6,61 @@ void display(void){
 
     // Create a Line
     glBegin(GL_LINES); // Line initialization
-    glVertex2f(0.5,0.5); // Node -> Vertex
-    glVertex2f(-0.5,-0.5); //
+
+    // Colors on lines
+    glColor3f(1,0,0);
+    glVertex2f(0.5,0.5);
+    // Node -> Vertex
+    glVertex2f(-0.5,-0.5);
+
+    // Green Color
+    glColor3f(0,1,0);
+    glVertex2f(-0.5,0.5);
+    glVertex2f(0.5,-0.5);
+
+     //
     glEnd(); // Line Connect End
 
+    // Create Points
+    //White Color
+    glColor3f(1,1,1);
+    glBegin(GL_POINTS);
+    glVertex2f(0,0.5);
+    glEnd();
+
+    glColor3f(0,1,0);
+    // Make a Triangles
+    glBegin(GL_TRIANGLES);
+    //Color
+
+    glVertex2f(0,1);
+    glVertex2f(-1,0);
+    glVertex2f(1,0);
+    glEnd();
+
+    // Make a Quads
+    glColor3f(0.4,0.6,0);
+    glBegin(GL_QUADS);
+    glVertex2f(-0.5,0);
+    glVertex2f(0.5,0);
+
+    glVertex2f(0.5,-1);
+    glVertex2f(-0.5,-1);
+    glEnd();
+
+
+    /// Make a Polygon
+  /*  glColor3f(0,0,1);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,0.7);
+    glVertex2f(0.7,0.3);
+    glVertex2f(0.7,-0.3);
+    glVertex2f(0,-0.7);
+    glVertex2f(-0.7,-0.3);
+    glVertex2f(-0.7,0.3);
+    glEnd(); */
+
+    // Task : Make a Star
     glFlush(); //
 
 
