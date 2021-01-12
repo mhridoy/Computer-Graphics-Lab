@@ -1,8 +1,5 @@
 # Computer Graphics Lab
- <p>Source Code : Lab / main.cpp<br>
- 	Language: C++<br>
-	Library : OpenGL<br>
-	</p><br>
+
 ## Planning - Draw a lines 
 ![Draw Lines](Create_Lines_on_OpenGL.PNG)
 ## Actual Graphics Window - For Lines
