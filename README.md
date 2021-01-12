@@ -4,7 +4,7 @@
 	Library : OpenGL<br>
 	</p>
 ## Planning - Draw a lines
-![Create a Line](main/Images/Create_Lines_on_OpenGL.PNG)
+![Create a Line](/Images/Create_Lines_on_OpenGL.PNG)
 ## Actual Graphics Window - For Lines
 ![Draw Lines](../master/Images/Draw_Lines_on_openGL.PNG)
 ## Design - Make a Home 
