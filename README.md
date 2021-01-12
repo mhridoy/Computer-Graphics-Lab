@@ -3,7 +3,7 @@
  	Language: C++<br>
 	Library : OpenGL<br>
 	</p>
-## Planning - Draw a lines 
+# Planning - Draw a lines 
 <br>
 <img   src="https://github.com/mhridoy/Computer-Graphics-Lab/blob/main/Images/Create_Lines_on_OpenGL.PNG" />
 ## Actual Graphics Window - For Lines
