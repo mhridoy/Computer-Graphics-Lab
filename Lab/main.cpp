@@ -4,6 +4,14 @@
 
 void display(void){
 
+    // Create a Line
+    glBegin(GL_LINES); // Line initialization
+    glVertex2f(0.5,0.5); // Node -> Vertex
+    glVertex2f(-0.5,-0.5); //
+    glEnd(); // Line Connect End
+
+    glFlush(); //
+
 
 }
 int main(int argc, char ** argv){
