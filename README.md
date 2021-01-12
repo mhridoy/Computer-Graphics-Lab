@@ -4,9 +4,10 @@
 	Library : OpenGL<br>
 	</p>
 ## Planning - Draw a lines
- <img   src="https://github.com/mhridoy/Computer-Graphics-Lab/blob/main/Images/Create_Lines_on_OpenGL.PNG" />
+
+![Draw] (<img   src="https://github.com/mhridoy/Computer-Graphics-Lab/blob/main/Images/Create_Lines_on_OpenGL.PNG" />)
 ## Actual Graphics Window - For Lines
-<img src="https://github.com/mhridoy/Computer-Graphics-Lab/blob/main/Images/Draw_Lines_on_openGL.PNG"/>
+<img src="https://github.com/mhridoy/Computer-Graphics-Lab/blob/main/Images/Draw_Lines_on_DrawopenGL.PNG"/>
 ## Design - Make a Home 
 <img src="https://github.com/mhridoy/Computer-Graphics-Lab/blob/main/Images/Make_A_home_plan_Design.PNG"/>
 ## Actual Output - For Home (Triangle + Quads=Home)
