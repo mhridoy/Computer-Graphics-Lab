@@ -6,7 +6,7 @@
 ## Planning - Draw a lines
  <img   src="https://github.com/mhridoy/Computer-Graphics-Lab/blob/main/Images/Create_Lines_on_OpenGL.PNG" />
 ## Actual Graphics Window - For Lines
-![Draw Lines](https://github.com/mhridoy/Computer-Graphics-Lab/tree/main/ImagesDraw_Lines_on_openGL.PNG)
+<img src="Images/Draw_Lines_on_openGL.PNG"/>
 ## Design - Make a Home 
 ![Draw Home](https://github.com/mhridoy/Computer-Graphics-Lab/tree/main/ImagesMake_A_home_plan_Design.PNG)
 ## Actual Output - For Home (Triangle + Quads=Home)
