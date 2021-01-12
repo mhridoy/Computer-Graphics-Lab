@@ -3,7 +3,7 @@
 ## Planning - Draw a lines 
 ![Draw Lines](Create_Lines_on_OpenGL.PNG)
 ## Actual Graphics Window - For Lines
-![Lines](Draw_ Lines_on_openGL.PNG)
+![Draw Lines](Draw_ Lines_on_openGL.PNG)
 ## Design - Make a Home 
 ![Draw Lines](Make_A_home_plan_Design.PNG)
 ## Actual Output - For Home (Triangle + Quads=Home)
