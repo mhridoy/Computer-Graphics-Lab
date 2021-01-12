@@ -4,7 +4,7 @@
 1. Draw two lines
 2. Make a Triangles + Quads = Home
 3. Make a Polygon 
-4. Make a Start 
+4. Make a Star
 
 #### Planning - Draw a lines 
 ![Draw Lines](Create_Lines_on_OpenGL.PNG)
