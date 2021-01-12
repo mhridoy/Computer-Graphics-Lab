@@ -1,6 +1,6 @@
 # Computer Graphics Lab
 ### You can Find Source Code : Lab -> main.cpp
-### What have done 
+### What we have done 
 1. Draw two lines
 2. Make a Triangles + Quads = Home
 3. Make a Polygon 
