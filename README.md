@@ -6,12 +6,12 @@
 ## Planning - Draw a lines
  <img   src="https://github.com/mhridoy/Computer-Graphics-Lab/blob/main/Images/Create_Lines_on_OpenGL.PNG" />
 ## Actual Graphics Window - For Lines
-<img src="Images/Draw_Lines_on_openGL.PNG"/>
+<img src="https://github.com/mhridoy/Computer-Graphics-Lab/blob/main/Images/Draw_Lines_on_openGL.PNG"/>
 ## Design - Make a Home 
-![Draw Home](https://github.com/mhridoy/Computer-Graphics-Lab/tree/main/ImagesMake_A_home_plan_Design.PNG)
+<img src="https://github.com/mhridoy/Computer-Graphics-Lab/blob/main/Images/Make_A_home_plan_Design.PNG"/>
 ## Actual Output - For Home (Triangle + Quads=Home)
-![Actual Output](https://github.com/mhridoy/Computer-Graphics-Lab/tree/main/Imagesmaster/Images/Triangle_plus_Quads_equal=Home.PNG)
+<img src="https://github.com/mhridoy/Computer-Graphics-Lab/blob/main/Images/Triangle_plus_Quads_equal=Home.PNG"/>
 ## Design - Make a Polygon
-![Draw Polygon](https://github.com/mhridoy/Computer-Graphics-Lab/tree/main/Imagesmaster/Images/Make_a_polygon_design.PNG)
+<img src="https://github.com/mhridoy/Computer-Graphics-Lab/blob/main/Images/Make_a_polygon_design.PNG"/>
 ## Actual Output - For Polygon
-![Actual Output](https://github.com/mhridoy/Computer-Graphics-Lab/tree/main/Imagesmaster/Images/Polygon_Actual_Output.PNG)
+<img src="https://github.com/mhridoy/Computer-Graphics-Lab/blob/main/Images/Polygon_Actual_Output.PNG"/>
