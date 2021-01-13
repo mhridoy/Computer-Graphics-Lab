@@ -3,7 +3,7 @@
 #include <GL/glut.h>
 
 void display(void){
-
+/*
     // Create a Line
     glBegin(GL_LINES); // Line initialization
 
@@ -27,7 +27,7 @@ void display(void){
     glBegin(GL_POINTS);
     glVertex2f(0,0.5);
     glEnd();
-
+/*
     glColor3f(0,1,0);
     // Make a Triangles
     glBegin(GL_TRIANGLES);
@@ -47,7 +47,7 @@ void display(void){
     glVertex2f(0.5,-1);
     glVertex2f(-0.5,-1);
     glEnd();
-
+*/
 
     /// Make a Polygon
   /*  glColor3f(0,0,1);
@@ -60,9 +60,59 @@ void display(void){
     glVertex2f(-0.7,0.3);
     glEnd(); */
 
-    // Task : Make a Star
+
+
+
+    /// Task : Make a Star
+
+        glColor3f(0,1,0);
+    // Make a Triangles
+    glBegin(GL_TRIANGLES);
+    //Color
+
+    glVertex2f(0.3,0.7);
+    glVertex2f(0.3,0.4);
+    glVertex2f(-0.3,0.4);
+    glEnd();
+
+        glColor3f(0,1,1);
+    // Make a Triangles
+    glBegin(GL_TRIANGLES);
+    //Color
+
+    glVertex2f(-0.6,0.4);
+    glVertex2f(-0.3,0.4);
+    glVertex2f(-0.3,0);
+    glEnd();
+    glColor3f(0.3,1,1);
+    // Make a Triangles
+    glBegin(GL_TRIANGLES);
+    //Color
+
+    glVertex2f(-0.6,-0.6);
+    glVertex2f(-0.3,0);
+    glVertex2f(0,-0.3);
+    glEnd();
     glFlush(); //
 
+    glColor3f(0,1,1);
+    // Make a Triangles
+    glBegin(GL_TRIANGLES);
+    //Color
+
+    glVertex2f(0.3,-0.5);
+    glVertex2f(0,-0.3);
+    glVertex2f(0.3,-0.1);
+    glEnd();
+glColor3f(0,1,1);
+    // Make a Triangles
+    glBegin(GL_TRIANGLES);
+    //Color
+
+    glVertex2f(0.6,0.4);
+    glVertex2f(0.3,-0.1);
+    glVertex2f(0.3,0.4);
+    glEnd();
 
 }
 int main(int argc, char ** argv){
