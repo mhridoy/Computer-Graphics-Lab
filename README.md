@@ -19,3 +19,5 @@
 ## Actual Output - For Polygon
 ![Draw Lines](Polygon_Actual_Output.PNG)
 ## Installation 
+ > CodeBlocks 
+ > OpenGL
