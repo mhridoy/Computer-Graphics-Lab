@@ -1,6 +1,7 @@
 
 #include <windows.h>
 #include <GL/glut.h>
+#include <math.h>
 
 void display(void){
 /*
@@ -64,7 +65,7 @@ void display(void){
 
 
     /// Task : Make a Star
-
+/*
         glColor3f(0,1,0);
     // Make a Triangles
     glBegin(GL_TRIANGLES);
@@ -113,6 +114,18 @@ glColor3f(0,1,1);
     glVertex2f(0.3,-0.1);
     glVertex2f(0.3,0.4);
     glEnd();
+    */
+    float x,y, r= 0.5;
+    /// Make a circle
+    for (float theta = 0; theta<360; theta=theta+0.01)
+    {
+        x = r*cos(theta);
+        y = r*sin(theta);
+        glBegin(GL_POINTS);
+        glVertex2f(x,y);
+        glEnd();
+    }
+    glFlush();
 
 }
 int main(int argc, char ** argv){
